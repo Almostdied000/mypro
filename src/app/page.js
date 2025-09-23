@@ -547,19 +547,19 @@ const NeonPortfolio = () => {
           <div className={`transition-all duration-1000 ease-out ${aboutAreVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <NeonCard glowColor="pink" className="p-8">
               <p className="text-gray-300 leading-relaxed text-lg mb-6">
-                Greetings, fellow cybernauts! I'm ALMOSTDIED, a full-stack developer with a passion for
+                Greetings, fellow cybernauts! I&apos;m ALMOSTDIED, a full-stack developer with a passion for
                 creating immersive digital experiences. My journey began with a curiosity for how things work
                 under the hood, leading me to master a blend of frontend and backend technologies.
               </p>
               <p className="text-gray-300 leading-relaxed text-lg mb-6">
-                Over the years, I've honed my skills in frameworks like **React** and **Next.js**, while
+                Over the years, I&apos;ve honed my skills in frameworks like **React** and **Next.js**, while
                 building robust server-side applications with **Node.js** and **Python**. But my true
-                fascination lies in the world of **AI and machine learning**, where I'm constantly
+                fascination lies in the world of **AI and machine learning**, where I&apos;m constantly
                 exploring new ways to integrate intelligent features into my projects.
               </p>
               <p className="text-gray-300 leading-relaxed text-lg">
                 I thrive on challenges and am dedicated to building solutions that are not only
-                functional and performant but also visually stunning. Let's build something extraordinary together.
+                functional and performant but also visually stunning. Let&apos;s build something extraordinary together.
               </p>
             </NeonCard>
             
@@ -640,10 +640,10 @@ const NeonPortfolio = () => {
         {/* Contact Section */}
         <section id="contact" className="text-center py-20">
           <h2 className="text-5xl font-bold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-pink-400">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           <p className="text-gray-400 mb-12 max-w-2xl mx-auto text-lg">
-            Ready to illuminate the digital world together? Let's create something extraordinary.
+            Ready to illuminate the digital world together? Let&apos;s create something extraordinary.
           </p>
           
           <NeonCard glowColor="purple" className="max-w-2xl mx-auto mb-12 p-8">
