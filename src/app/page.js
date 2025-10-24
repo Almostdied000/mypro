@@ -436,7 +436,7 @@ const NeonPortfolio = () => {
                 <Code className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-pink-400">
-                ALMOSTDIED
+                Dhanush D
               </span>
             </div>
             
@@ -508,7 +508,7 @@ const NeonPortfolio = () => {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 mb-6">
-              <TypewriterText text="ALMOSTDIED" speed={150} />
+              <TypewriterText text="Dhanush D" speed={150} />
             </h1>
             
             <h2 className="text-2xl md:text-3xl text-gray-300 mb-8 font-light">
@@ -547,7 +547,7 @@ const NeonPortfolio = () => {
           <div className={`transition-all duration-1000 ease-out ${aboutAreVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <NeonCard glowColor="pink" className="p-8">
               <p className="text-gray-300 leading-relaxed text-lg mb-6">
-                Greetings, fellow cybernauts! I&apos;m ALMOSTDIED, a full-stack developer with a passion for
+                Greetings, fellow cybernauts! I&apos;m Dhanush D, a full-stack developer with a passion for
                 creating immersive digital experiences. My journey began with a curiosity for how things work
                 under the hood, leading me to master a blend of frontend and backend technologies.
               </p>
